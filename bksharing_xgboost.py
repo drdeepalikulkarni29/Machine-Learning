@@ -1,3 +1,5 @@
+## Bike sharing demand project based n boosting algos 
+
 import pandas as pd
 import numpy as np
 bk=pd.read_csv("file:///E:/D Drive/R Console_class/Bike sharing data project/train.csv",parse_dates=['datetime'])
